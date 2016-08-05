@@ -64,7 +64,6 @@ class BaseViewController: UIViewController, SlideMenuDelegate {
         {
             // To Hide Menu If it already there
             self.slideMenuItemSelectedAtIndex(-1);
-            tabBarController?.tabBar.hidden = false
             
             sender.tag = 0;
             
@@ -85,7 +84,6 @@ class BaseViewController: UIViewController, SlideMenuDelegate {
         
         sender.enabled = false
         sender.tag = 10
-        tabBarController?.tabBar.hidden = true
         
         let menuVC : MenuViewController = self.storyboard!.instantiateViewControllerWithIdentifier("MenuViewController") as! MenuViewController
         menuVC.btnMenu = sender

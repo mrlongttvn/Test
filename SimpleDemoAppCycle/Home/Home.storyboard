@@ -191,6 +191,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="87P-RM-vh3" firstAttribute="top" secondItem="VOm-4r-HmB" secondAttribute="bottom" id="4lp-ft-as7"/>
+                            <constraint firstItem="87P-RM-vh3" firstAttribute="top" secondItem="VOm-4r-HmB" secondAttribute="bottom" id="BP1-8w-85B"/>
                             <constraint firstItem="NaB-hx-8Ij" firstAttribute="leading" secondItem="IGg-kD-Sfv" secondAttribute="leading" id="JER-uH-sF6"/>
                             <constraint firstAttribute="trailing" secondItem="VOm-4r-HmB" secondAttribute="trailing" id="LFZ-yl-8G8"/>
                             <constraint firstAttribute="bottom" secondItem="NaB-hx-8Ij" secondAttribute="bottom" id="O1Z-Qw-CUU"/>
@@ -205,6 +206,7 @@
                             <mask key="constraints">
                                 <exclude reference="O1Z-Qw-CUU"/>
                                 <exclude reference="Sdq-ZY-yBn"/>
+                                <exclude reference="fag-Zt-rCE"/>
                                 <exclude reference="4lp-ft-as7"/>
                             </mask>
                         </variation>

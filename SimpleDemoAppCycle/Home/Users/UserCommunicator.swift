@@ -56,7 +56,7 @@ struct SampleUsers {
                        "http://media.salon.com/2012/07/Screen-shot-2012-07-06-at-2.41.50-PM.png",
                        "http://cdn1.relevantmediagroup.com/sites/default/files/styles/article_header/public/field/image/single.jpg?itok=ccbmSA6I",
                        "http://media.indiatimes.in/media/content/2012/Jun/1735255_1437732895.jpg",
-                       "https://www.beyond.com/data/articles/images/work-life-balance/singlepeople.jpg",
+                       "http://cdn.mamamia.com.au/wp-content/uploads/2015/01/iStock_000039083542_Medium.jpg",
                        "http://www.coachseduction.com/wp-content/uploads/2015/09/pourquoi-celibataire-montreal.jpg",
                        "http://static.eharmony.com/blog/wp-content/uploads/2014/11/single-women-voting.jpg",
                        "http://i.dailymail.co.uk/i/pix/2015/05/29/02/2929496B00000578-3101635-image-a-1_1432862935225.jpg"]

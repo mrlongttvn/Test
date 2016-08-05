@@ -30,11 +30,6 @@ class MenuViewController: UIViewController, UITableViewDataSource, UITableViewDe
         tableView.tableFooterView = UIView()
     }
     
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         updateArrayMenuOptions()
@@ -69,7 +64,6 @@ class MenuViewController: UIViewController, UITableViewDataSource, UITableViewDe
             }, completion: { (finished) -> Void in
                 self.view.removeFromSuperview()
                 self.removeFromParentViewController()
-                self.tabBarController?.tabBar.hidden = false 
         })
     }
     
